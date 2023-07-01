@@ -1,6 +1,6 @@
+<p align="center"> <img width="1430" alt="muskanPrjapati" src="https://github.com/muskanPrajapati/MuskanPrajapati/blob/main/prfile.png"> </p>
 
 <h1 align="center">Hi 👋, Coders👩‍💻</h1>
-<p align="center"> <img width="1430" alt="muskanPrjapati" src="https://github.com/muskanPrajapati/MuskanPrajapati/blob/main/prfile.png"> </p>
 <h3 align="center">I'm a Fresher gaining experience in designing, developing, and implementing
         applications and solutions using JavaScript,Node.Js,MongoDB.</h3>
 
